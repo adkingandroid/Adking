@@ -1,2 +1,2 @@
 # Adking Master branch:
-contains first Version
+contains first Version as Zip-File
